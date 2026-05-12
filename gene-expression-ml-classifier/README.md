@@ -37,7 +37,13 @@ This project implements a machine learning pipeline to classify tumor samples as
 \-Accuracy: \~97–98%
 
 \-AUC Score: \~0.99
+## Visualizations
 
+### ROC Curve
+![ROC Curve](results/roc_curve.png)
+
+### Feature Importance
+![Feature Importance](results/feature_importance.png)
 **Key Insights**
 
 \-Important features:
